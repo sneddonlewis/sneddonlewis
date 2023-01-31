@@ -1,6 +1,6 @@
 ### Some Languages & Frameworks I'm familiar with
 
-<div>
+<div style="width: 100%; display: flex; justify-content: center;">
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
@@ -13,7 +13,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />  
 </div>
 
----
 
 <p float="left">
   <img alt="Languages from my GitHub repos" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&langs_count=10&theme=tokyonight" />
