@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ### Stats
 
 <p float="left">
-  <img alt="Lewis' GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sneddonlewis&show_icons=true&hide_border=true&theme=rose_pine" height=165px />
-  <img alt="Lewis' GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&hide_border=true&layout=compact&theme=rose_pine" />
+  <img alt="Lewis' GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&langs_count=10&hide_border=true&layout=compact&theme=rose_pine" />
 </p>
 
 ---
