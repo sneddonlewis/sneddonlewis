@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" />  
 
 #### Frameworks
 
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angularjs/angularjs.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
 
 <br />
