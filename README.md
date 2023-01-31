@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-<p float="centre">
+<p float="left">
   <img alt="Lewis' GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&langs_count=10&hide_border=true&layout=compact&theme=rose_pine" />
 </p>
 
