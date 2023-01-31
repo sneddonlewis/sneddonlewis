@@ -25,23 +25,20 @@ Here are some ideas to get you started:
 
 ### Languages & Frameworks
 
+#### Languages
+
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" />
 
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-
+#### Frameworks
 
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
-
-
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angularjs/angularjs.png" />
 
 <br />
