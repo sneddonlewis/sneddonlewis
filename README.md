@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### Stats
 
-<p float="left">
+<p float="centre">
   <img alt="Lewis' GitHub Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&langs_count=10&hide_border=true&layout=compact&theme=rose_pine" />
 </p>
 
 ---
 
-### Languages & Frameworks
+### Some Languages & Frameworks I'm familiar with
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
 
 <br />
