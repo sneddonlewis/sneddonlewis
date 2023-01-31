@@ -1,9 +1,3 @@
-<p float="left">
-  <img alt="Languages from my GitHub repos" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&langs_count=10&theme=tokyonight" />
-</p>
-
----
-
 ### Some Languages & Frameworks I'm familiar with
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
@@ -17,4 +11,8 @@
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 
+---
 
+<p float="left">
+  <img alt="Languages from my GitHub repos" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sneddonlewis&langs_count=10&theme=tokyonight" />
+</p>
